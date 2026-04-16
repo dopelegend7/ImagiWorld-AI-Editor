@@ -1,0 +1,6 @@
+{
+  "name": "ImagiWorld AI Editor",
+  "description": "An AI-powered image editor that allows you to transform the 'worlds' within your images using natural language prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
